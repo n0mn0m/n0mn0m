@@ -11,8 +11,8 @@
 
 ## Things I'm currently interested in 
 - Radio 📻
-- GPUs <a href="https://emoji.gg/emoji/4705_pokeball_great"><img src="https://emoji.gg/assets/emoji/4705_pokeball_great.png" width="22px" height="22px" alt="pokeball_great"></a>
 - Rust
+- System Management
 
 ### Things I've learned about in the past are [here](https://git.burningdaylight.io) and [here](https://burningdaylight.io/tags)
 
