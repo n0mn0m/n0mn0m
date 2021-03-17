@@ -11,9 +11,9 @@
 
 ## Things I'm currently interested in 
 - Radio 📻
-- Rust
-- System Management
+- Python
+- DSP
 
-### Things I've learned about in the past are [here](https://git.burningdaylight.io) and [here](https://burningdaylight.io/tags)
+### Things I've learned about in the past are [here](https://burningdaylight.io/tags)
 
-If you have something to share I'm happy to listen.
+If you have something to share send me a link or message. I always like hearing about what others are doing.
