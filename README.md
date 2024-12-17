@@ -1,5 +1,5 @@
 <h1 align="center">
- ☕
+ ☕🎧
 </h1>
 
 <p align="center">
@@ -9,4 +9,6 @@
 
 ---
 
-If you have something to share send me a link or message. I enjoy hearing what others are up to.
+<p align="center">
+    If you have something to share send me a link or message. I enjoy hearing what others are up to.
+</p>
