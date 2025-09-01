@@ -3,12 +3,11 @@
 </h1>
 
 <p align="center">
-  I'm wandering around learning all I can along the way. 
-  <br />Sometimes I take <a href="https://burningdaylight.io">notes</a> as I go.
+  <a href="https://burningdaylight.io/me">I'm</a> wandering around learning all I can along the way. 
 </p>
 
 ---
 
 <p align="center">
-    If you have something to share send me a link or message. I enjoy hearing what others are up to.
+    I enjoy hearing what others are up to, feel free to send me an <a href="%22mailto:alexander@burningdaylight.io%22">email</a>.
 </p>
